@@ -6,10 +6,10 @@
 # ==============================================================================
 declare caldayweek
 declare mealday
-declare grocycode_type
 export GROCY_CULTURE
 export GROCY_CURRENCY
 export GROCY_ENTRY_PAGE
+export GROCY_GROCYCODE_TYPE
 
 bashio::log.info "Starting PHP-FPM..."
 
