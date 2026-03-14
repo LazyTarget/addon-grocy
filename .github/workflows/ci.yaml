@@ -26,4 +26,4 @@ jobs:
       pull-requests: write
       packages: read
       security-events: write
-    uses: hassio-addons/workflows/.github/workflows/addon-ci.yaml@main
+    uses: lazytarget/ha-workflows/.github/workflows/addon-ci.yaml@main
